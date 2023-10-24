@@ -9,3 +9,6 @@ The application is built on React Boiler plate code using [create-react-app]
 - Install necessary packages using `npm i` command
 - Run application using `npm start` command
 
+## Application Preview
+Configured auto build on vercel, **Live preview:** https://nirmata-test.vercel.app/
+
