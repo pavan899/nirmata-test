@@ -7,7 +7,8 @@ The application is built on React Boiler plate code using [create-react-app]
 - Clone application using command `git clone https://github.com/pavan899/nirmata-test.git`
 - Change directory into application root directory using `cd nirmata-test`
 - Install necessary packages using `npm i` command
-- Run application using `npm start` command
+- Run application in devmode using `npm run startdev` command
+- Build application using `npm run build` command
 
 ## Application Preview
 Configured auto build on vercel, **Live preview:** https://nirmata-test.vercel.app/
