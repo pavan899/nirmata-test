@@ -42,3 +42,8 @@ Configured auto build on vercel, **Live preview:** https://nirmata-test.vercel.a
 - HOC (Templating)
 - Haven't used Provided pattern assuming api calls must be distinct
 - Re-usable Logic
+- Build Optimization
+    - Webpack Configuration
+    - Minification using Terser-plugin
+    - Code splitting (Dynamic loading using lazy loading)
+    - Treeshaking configuration to remove dead code
